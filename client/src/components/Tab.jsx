@@ -1,11 +1,11 @@
 import React from 'react'
 
-const index = () => {
+const Tab = () => {
   return (
     <div>
-      Canvas
+      Tab
     </div>
   )
 }
 
-export default index
+export default Tab

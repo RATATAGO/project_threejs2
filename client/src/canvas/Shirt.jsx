@@ -1,11 +1,11 @@
 import React from 'react'
 
-const index = () => {
+const shirt = () => {
   return (
     <div>
-      Canvas
+      
     </div>
   )
 }
 
-export default index
+export default shirt

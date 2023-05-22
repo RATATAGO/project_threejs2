@@ -1,11 +1,11 @@
 import React from 'react'
 
-const index = () => {
+const FilePicker = () => {
   return (
     <div>
-      Canvas
+      
     </div>
   )
 }
 
-export default index
+export default FilePicker
